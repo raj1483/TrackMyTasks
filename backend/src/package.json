@@ -4,7 +4,7 @@
   "description": "Task Tracker API Server  Task Tracker API with Express and MongoDB",
   "main": "server.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node server.js",
     "server": "nodemon server.js",
     "dev": "cross-env NODE_ENV=development nodemon server.js"
   },
